@@ -88,6 +88,7 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/1zhou-Wang/MemVR.svg?style=social&label=Star) <br> [**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**](https://arxiv.org/pdf/2410.03577.pdf) <br> | **MemVR** | arXiv | 2024-10-07 | [Github](https://github.com/1zhou-Wang/MemVR) |
 | ![Star](https://img.shields.io/github/stars/zjr2000/REVERIE.svg?style=social&label=Star) <br> [**Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models**](https://arxiv.org/pdf/2407.11422.pdf) <br> | **REVERIE** | ECCV 2024 | 2024-07-16 | [Github](https://github.com/zjr2000/REVERIE) |
 | [**Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models**](https://arxiv.org/pdf/2407.00569.pdf) <br> | **Residual Visual Decoding** | ACL 2024 | 2024-06-29 | |
 | [**VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning**](https://arxiv.org/pdf/2406.14056.pdf) <br> | **VGA** | arXiv | 2024-06-20 | |
